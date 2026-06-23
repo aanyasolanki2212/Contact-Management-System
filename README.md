@@ -1,2 +1,14 @@
-# Contact-Management-System
-A Python-based contact management system that allows users to add, search, view, and delete contacts through a menu-driven interface.
+# Contact Management System
+
+## Features
+- Add Contacts
+- Search Contacts
+- Delete Contacts
+- View Contacts
+- Menu Driven Interface
+
+## Technology Used
+- Python
+
+## Author
+Aanya Solanki
